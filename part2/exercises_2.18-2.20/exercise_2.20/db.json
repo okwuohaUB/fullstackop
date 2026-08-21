@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Uche Love",
+      "number": "0807676569",
+      "id": "RfJs_ecgL2Q"
+    },
+    {
+      "name": "Dave Nkpaka",
+      "number": "080656545445",
+      "id": "_DVemiX-ryQ"
+    },
+    {
+      "name": "Adamson",
+      "number": "0087676567",
+      "id": "PIjuwSJqj9I"
+    },
+    {
+      "name": "Adams",
+      "number": "09087676889",
+      "id": "H2Obm3sZYgc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

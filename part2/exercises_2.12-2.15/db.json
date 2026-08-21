@@ -1,0 +1,15 @@
+{
+  "persons": [
+    {
+      "name": "Uche Love",
+      "number": "0806677799",
+      "id": "njQC7aAS0DY"
+    },
+    {
+      "name": "Uche Nnabu",
+      "number": "0802323423",
+      "id": "5Lf61NR8zdU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
